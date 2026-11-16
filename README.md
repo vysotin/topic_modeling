@@ -1,4 +1,4 @@
-# Topic Modeling and Sentiment per topic analysis
+# Topic Modeling and Topic Sentiment analysis
 
 My goal was to create end-to-end solution for extracting topics from the large corpus of texts that also have a 
 date attribute, like news, scientific articles, etc. 
